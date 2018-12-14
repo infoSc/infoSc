@@ -1,4 +1,1 @@
-# infoS
-# infoS
-# infoSc
 # infoSc
